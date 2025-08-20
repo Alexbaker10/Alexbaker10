@@ -1,4 +1,8 @@
+<<<<<<< HEAD
 # Name: Alex W. Baker
+=======
+# Name: Alex W. Baker
+>>>>>>> c33d8a941df5323ad54a6acb89488958c6e32333
 ## 🎓 Senior at Reinhardt University
 ## Major: Cybersecurity
 ## Minor: Information Technology
