@@ -1,4 +1,4 @@
-# Name: Alex Baker
+# Name: Alex William Baker
 ## 🎓 Senior at Reinhardt University
 ## Major: Cybersecurity
 ## Minor: Information Technology
